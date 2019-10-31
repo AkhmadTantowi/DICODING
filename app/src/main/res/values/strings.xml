@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListSekolah</string>
+    <string name="about">About</string>
+    <string name="sekolah">Nama Sekolah</string>
+    <string name="detail">Detail Sekolah</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="nama_sekolah">Nama Sekolah</string>
+    <string name="sejarah">Sejarah</string>
+</resources>
